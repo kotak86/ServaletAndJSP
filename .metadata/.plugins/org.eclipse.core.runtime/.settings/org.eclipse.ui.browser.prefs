@@ -1,0 +1,4 @@
+browser-choice=0
+browsers=<?xml version\="1.0" encoding\="UTF-8"?>\n<web-browsers current\="1">\n<system/>\n<external location\="/usr/bin/firefox" name\="Firefox"/>\n</web-browsers>
+eclipse.preferences.version=1
+internalWebBrowserHistory=http\://localhost\:8080/CodeWithAnkit/RegistrationPage|*|http\://localhost\:8080/CodeWithAnkit/login.jsp|*|http\://localhost\:8080/CodeWithAnkit/WelcomeAnkit|*|http\://localhost\:8080/CodeWithAnkit/|*|http\://localhost\:8080/CodeWithAnkit|*|http\://localhost\:8080/CodeWithAnkit/index.jsp|*|http\://localhost\:8080/CodeWithAnkit/Welcome|*|http\://localhost\:8080/JavaEEWorld/JavaEEWeb|*|http\://localhost\:8080/JavaEEWorld/HelloJSP.jsp|*|http\://localhost\:8080/JavaEEWorld/helloAnkit.html|*|

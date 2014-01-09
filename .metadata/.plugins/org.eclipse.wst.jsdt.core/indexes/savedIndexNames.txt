@@ -1,0 +1,4 @@
+INDEX VERSION 1.122+/home/ankit/Java_code/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+4221685656.index
+4034445026.index
+3065723172.index

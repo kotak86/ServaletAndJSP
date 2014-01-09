@@ -1,0 +1,5 @@
+INDEX VERSION 1.126
+/home/ankit/Java_code/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1450391233.index
+/JavaEEWorld/src
+/home/ankit/Java_code/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3065723172.index
+/CodeWithAnkit/src
